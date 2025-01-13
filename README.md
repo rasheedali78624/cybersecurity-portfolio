@@ -17,3 +17,10 @@ Hello! My name is **Rasheed Ali Saadik Ali**, a cybersecurity professional from 
   - Network Troubleshooting
 - **Languages**:
   - English, Tamil, Sinhala, Malay
+
+## Certifications and Training
+- **Google Cybersecurity Certification** – Coursera, July 2024
+- **PwC Switzerland Cybersecurity Job Simulation** – Forage, March 2024
+- **ANZ Australia Cyber Security Management Job Simulation** – Forage, February 2024
+- **Certificate in Web Development** – WinSys, Colombo, 2017
+
