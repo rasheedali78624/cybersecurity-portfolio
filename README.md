@@ -41,3 +41,9 @@ Hello! My name is **Rasheed Ali Saadik Ali**, a cybersecurity professional from 
   - Conducted network assessments and optimized bandwidth usage.
   - Deployed advanced networking technologies for reliability and efficiency.
 - **Outcome**: Improved infrastructure stability, reduced downtime, and safeguarded sensitive data with firewalls and VPNs.
+
+## Contact Information
+- **Email**: rasheedali78624@gmail.com
+- **LinkedIn**: [linkedin.com/in/rasheedali78624](https://www.linkedin.com/in/rasheedali78624/)
+
+
