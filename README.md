@@ -24,3 +24,20 @@ Hello! My name is **Rasheed Ali Saadik Ali**, a cybersecurity professional from 
 - **ANZ Australia Cyber Security Management Job Simulation** – Forage, February 2024
 - **Certificate in Web Development** – WinSys, Colombo, 2017
 
+## Project Experience
+
+### Project 1: SOC Monitoring & Incident Response
+- **Objective**: Monitor security events and respond to potential incidents in a SOC environment.
+- **Tools Used**: NetIQ Sentinel, Splunk
+- **Methodology**:
+  - Configured SIEM filters to reduce false positives.
+  - Collaborated with security teams for incident analysis and threat mitigation.
+- **Outcome**: Enhanced accuracy of threat detection and improved incident response times.
+
+### Project 2: Network Engineering & Optimization
+- **Objective**: Configure and maintain network devices (Aruba, Fortinet) to ensure optimal performance.
+- **Tools Used**: Aruba, Fortinet, VLAN configurations
+- **Methodology**:
+  - Conducted network assessments and optimized bandwidth usage.
+  - Deployed advanced networking technologies for reliability and efficiency.
+- **Outcome**: Improved infrastructure stability, reduced downtime, and safeguarded sensitive data with firewalls and VPNs.
