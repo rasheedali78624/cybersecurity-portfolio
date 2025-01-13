@@ -16,7 +16,7 @@ This repository contains my cybersecurity portfolio, including projects, certifi
 7. [Contact Info](#contact-information)
 
 <!-- Your content continues... -->
-<img src="https://github.com/rasheedali78624/cybersecurity-portfolio/blob/main/Untitled%20design.png" alt="Cybersecurity Banner" width="600" />
+<img src="https://github.com/rasheedali78624/cybersecurity-portfolio/blob/main/ProfilePic.png" alt="Cybersecurity Banner" width="600" />
 
 ## About Me 
 Hello! My name is **Rasheed Ali Saadik Ali**, a cybersecurity professional from Shah Alam, Selangor. I have hands-on experience in SOC analysis and network engineering, and I’m currently pursuing a Master of Cyber Security at the University of Malaya. I’m passionate about threat intelligence, incident response, and helping organizations strengthen their digital defenses.
