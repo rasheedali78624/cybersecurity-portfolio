@@ -4,6 +4,13 @@ This repository contains my cybersecurity portfolio, including projects, certifi
 ## About Me
 Hello! My name is **Rasheed Ali Saadik Ali**, a cybersecurity professional from Shah Alam, Selangor. I have hands-on experience in SOC analysis and network engineering, and I’m currently pursuing a Master of Cyber Security at the University of Malaya. I’m passionate about threat intelligence, incident response, and helping organizations strengthen their digital defenses.
 
+## Learning Journey
+So far, I’ve gained practical experience in SOC analysis, SIEM configurations, and network security. 
+I’m continuously improving my incident response skills and plan to delve deeper into malware analysis in the coming months. I also aim to enhance my cloud security expertise by pursuing specialized training in AWS security architecture.
+
+## Career Objective
+My goal is to leverage my SOC analysis and network engineering background to become a leading cybersecurity specialist, focusing on proactive threat hunting and strengthening incident response frameworks within enterprise environments.
+
 ## Technical Skills
 - **Programming**: Python, PHP, Java, MySQL
 - **Cybersecurity & Tools**:
