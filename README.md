@@ -1,15 +1,37 @@
+---
+layout: default
+title: "Rasheed Ali Saadik Ali - Cybersecurity Portfolio"
+---
+
+# Welcome to My Cybersecurity Portfolio
+*Pursuing a Master of Cyber Security at University of Malaya*  
+*Hands-on experience in SOC analysis and network engineering*
+
+---
+
+## Professional Summary
+> “My mission is to leverage technical expertise in cybersecurity, incident response, and network defense to help organizations stay secure in a dynamic environment.”
+
+<img src="https://via.placeholder.com/600x200.png?text=Cybersecurity+Banner" alt="Cybersecurity Banner" width="600" />
+
+---
+
+## Table of Contents
+1. [About Me](#about-me)
+2. [Technical Skills](#technical-skills)
+3. [Certifications](#certifications-and-training)
+4. [Project Experience](#project-experience)
+5. [Learning Journey](#learning-journey)
+6. [Career Objective](#career-objective)
+7. [Contact Info](#contact-information)
+
+<!-- Your content continues... -->
+
 # cybersecurity-portfolio
 This repository contains my cybersecurity portfolio, including projects, certifications, and learning journey.
 
 ## About Me
 Hello! My name is **Rasheed Ali Saadik Ali**, a cybersecurity professional from Shah Alam, Selangor. I have hands-on experience in SOC analysis and network engineering, and I’m currently pursuing a Master of Cyber Security at the University of Malaya. I’m passionate about threat intelligence, incident response, and helping organizations strengthen their digital defenses.
-
-## Learning Journey
-So far, I’ve gained practical experience in SOC analysis, SIEM configurations, and network security. 
-I’m continuously improving my incident response skills and plan to delve deeper into malware analysis in the coming months. I also aim to enhance my cloud security expertise by pursuing specialized training in AWS security architecture.
-
-## Career Objective
-My goal is to leverage my SOC analysis and network engineering background to become a leading cybersecurity specialist, focusing on proactive threat hunting and strengthening incident response frameworks within enterprise environments.
 
 ## Technical Skills
 - **Programming**: Python, PHP, Java, MySQL
@@ -48,6 +70,13 @@ My goal is to leverage my SOC analysis and network engineering background to bec
   - Conducted network assessments and optimized bandwidth usage.
   - Deployed advanced networking technologies for reliability and efficiency.
 - **Outcome**: Improved infrastructure stability, reduced downtime, and safeguarded sensitive data with firewalls and VPNs.
+
+## Learning Journey
+So far, I’ve gained practical experience in SOC analysis, SIEM configurations, and network security. 
+I’m continuously improving my incident response skills and plan to delve deeper into malware analysis in the coming months. I also aim to enhance my cloud security expertise by pursuing specialized training in AWS security architecture.
+
+## Career Objective
+My goal is to leverage my SOC analysis and network engineering background to become a leading cybersecurity specialist, focusing on proactive threat hunting and strengthening incident response frameworks within enterprise environments.
 
 ## Contact Information
 - **Email**: rasheedali78624@gmail.com
